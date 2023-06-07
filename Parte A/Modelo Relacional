@@ -1,0 +1,7 @@
+MedioPrensa (PK_Nombre, URL, AñoFundación, Cobertura, Continente, País, Región, Ciudad)
+Fundadores (PK_IDFundador, Nombre, Apellido)
+Categoría (Nombre, PK_IDCat)
+RRSS (PK_ID, Usuario, ActualizaciónSeg, Seguidores, NombreRED)
+FundadoPor (FK_Nombre)
+Tener ()
+Publicar ()
