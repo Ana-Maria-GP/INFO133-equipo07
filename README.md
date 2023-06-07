@@ -5,3 +5,6 @@ Integración de SGBD en la construcción de software
     - Sebastián Fuentes
     - Andrés Galaz
     - Ana Gerding
+
+# Grupo 7:
+    - Colombia
