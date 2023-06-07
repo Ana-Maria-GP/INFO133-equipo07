@@ -1,0 +1,16 @@
+Conectividad (PK-id-Conectividad,  presupuesto,    gastos, año)
+Salud (PK-id-Salud,    presupuesto,    gastos, año)
+Transporte (PK-id-Transporte,  presupuesto,    gastos, año)
+PorDefinir (PK-id, presupuesto,    gastos, año)
+
+Contiene (FK-id-Comuna,    FK-id-Salud,   FK-id-Transporte,  F-id-PorDefinir,  id-Comuna)
+
+Comuna(PK-id-comuna,   presupuesto,    gastos, año)
+
+Pertenece(FK-id-comuna FK-id-region)
+
+Region(id-region,   presupuesto,    gastos, año)
+
+Forma(FK-region FK-indice)
+
+Pais(PK-Indice)
