@@ -1,5 +1,5 @@
 MedioPrensa (PK_Nombre, URL, AñoFundación, Cobertura, Continente, País, Región, Ciudad, FK_URLCat, FK_NombreCat)
-Fundadores (PK_IDFundador, Nombre, Apellido)
+Fundadores (PK_IDFundador, Nombre, Apellido, FK_Nombre)
 Categoría (PK_NombreCat, FK_Nombre, URLCat)
 RRSS (PK_ID, Usuario, ActualizaciónSeg, Seguidores, NombreRED)
 FundadoPor (FK_Nombre, FK_IDFundador, FK_Nombre, FK_Apellido)
