@@ -4,4 +4,4 @@
 - Diccionario de datos -> https://docs.google.com/spreadsheets/d/1R7_2ewGCvhqFhOOvM5Dx-3oklUYIEuugg5Z_59endfM/edit?usp=sharing
 
 # Grupo 7:
-    - Colombia
+- Colombia
