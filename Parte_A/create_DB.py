@@ -56,8 +56,7 @@ cur.execute("""
         CONTINENTE VARCHAR(100),
         PAIS VARCHAR(100),
         REGION VARCHAR(100),
-        CIUDAD VARCHAR(100),
-        ID_FUNDADOR INT
+        CIUDAD VARCHAR(100)        
     )
 """)
 
