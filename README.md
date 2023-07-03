@@ -10,15 +10,15 @@
 - Construiremos una base de datos con la información de 55 medios de prensa colombianos, para así, facilitar la investigación en ciencias de la comunicación y ciencias políticas.
 
 - Almacenaremos diferente información para los medios de prensa:
-    ● Nombre medio de prensa.
-    ● Ubicación geográfica (ciudad, región, país, continente).
+    - Nombre medio de prensa.
+    - Ubicación geográfica (ciudad, región, país, continente).
         - En el caso de Colombia, la región corresponde al Departamento.
-    ● Año de fundación.
-    ● Cobertura (internacional, nacional o local).
-    ● Nombre de su(s) fundador(es).
-    ● Cuentas de Facebook, Instagram y Twitter de cada medio de prensa.
+    - Año de fundación.
+    - Cobertura (internacional, nacional o local).
+    - Nombre de su(s) fundador(es).
+    - Cuentas de Facebook, Instagram y Twitter de cada medio de prensa.
         - Nombre de usuario, número de seguidores y fecha de actualización de seguidores.
-    ● Categorías presentes en cada medio de prensa.
+    - Categorías presentes en cada medio de prensa.
 
 - Haremos crawling y scraping de una noticia para cada medio de prensa.
 
