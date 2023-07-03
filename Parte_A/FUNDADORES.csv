@@ -1,101 +1,101 @@
-Nombre_MedioPrensa,ID_FUNDADOR,NOMBRE_FUNDADOR,APELLIDO_FUNDADOR
-El Tiempo,010001,Alfonso ,Villegas Restrepo
-El Espectador,020002,Fidel ,Cano Gutiérrez
-Publimetro,030003,Jan ,Stembeck 
-Cambio,040004,Juan,Tomás de Salas
-Cambio,040005,Daniel,Samper Pizano
-El Nuevo Siglo,050006,Laureano ,Gómez 
-El Nuevo Siglo,050007,José ,de la Vega
-Extra,060008,Hernando,Suaréz Burgos
-Diario del Sur,070008,Hernando,Suaréz Burgos
-ADN,080001,Alfonso,Villegas Restrepo
-Semana,090009,Felipe ,López Caballero
-El Colombiano,100010,Francisco,de Paula Pérez
-El País,110011,Álvaro,Lloreda Caicedo
-El País,110012,Alfredo,Lloreda
-Las 2 orillas,120013,María Elvira,Bonilla Otoya
-Las 2 orillas,120014,Elisa,Pastrana
-Las 2 orillas,120015,Adriana,Arcila
-Las 2 orillas,120016,León ,Valencia
-Las 2 orillas,120017,Natalia,Orozco
-Las 2 orillas,120018,Fernando,Otoya
-Las 2 orillas,120019,Rafael ,Santos
-Las 2 orillas,120020,Jorge Enrique ,Botero
-Las 2 orillas,120021,Margarita,Londoño Vélez
-Las 2 orillas,120022,Alonso ,Salazar
-Las 2 orillas,120023,Adriana,Mejía
-Las 2 orillas,120024,Ricardo,Correa
-Las 2 orillas,120025,Sergio ,Álvarez
-Pulzo,130026,Luis Fernando,Santos
-Pulzo,130027,Guillermo,Franco
-Pulzo,130028,Gregorio,Márquez
-Pulzo,130029,Paula,Barrientos
-Pulzo,130030,Joshua,Castaño
-Pulzo,130031,Hernando,Paniagua
-Pulzo,130032,Diego ,Carvajal
-Pulzo,130033,Sofía ,Herrera
-Portafolio,140034,Mauricio,Rodríguez Múnera
-La República,150035,Mariano,Ospina Pérez
-El Heraldo,160036,Alberto,Pumarejo
-El Heraldo,160037,Juan B.,Fernández Ortega
-El Heraldo,160038,Luis Eduardo,Manotas Llinás
-La Opinión,170039,Virgilio ,Barco Vargas
-La Opinión,170040,Eustorgio,Colmenares Baptista
-La Opinión,170041,Eduardo,Silva
-La Opinión,170042,Alirio,Sánchez
-La Opinión,170043,León ,Colmenares
-El Nuevo Día,180044,Antonio,Melo Salazar
-El Nuevo Día,180045,Fernando,Melendez
-El Nuevo Día,180046,Julio,Londoño Botero
-Q'Hubo Cali,190047,Alejandro,Galvis Ramírez
-Q'Hubo Cali,190048,María Elvira,Domínguez Lloreda
-Q'Hubo Cali,190049,Martha,Ortiz Gómez
-Q'Hubo Medellín,200047,Alejandro,Galvis Ramírez
-Q'Hubo Medellín,200048,María Elvira,Domínguez Lloreda
-Q'Hubo Medellín,200049,Martha,Ortiz Gómez
-Diario del Cauca,210008,Hernando,Suárez Burgos
-El Periódico Deportivo,220008,Hernando,Suárez Burgos
-Proclama Cauca y Valle,000000,NULL,NULL
-El Deportivo,000000,NULL,NULL
-Minuto 30,000000,NULL,NULL
-El Palpitar,230050,Luis,Amigó
-El Palpitar,230051,Maira,Arbeláez
-El Palpitar,230052,Luz Avané,Cataño
-El Palpitar,230053,Dúber,Cano
-El País Vallenato,240054,Taryn,Escalona
-El Pilón,250055,Dickson,Quiroz Torres
-El Pilón,250056,Iván Alejandro,Duarte
-Mi Diario,000000,NULL,NULL
-La Razón,000000,NULL,NULL
-El Meridiano,260057,William,Salleg Sofán
-El Meridiano,260058,Olga ,Taboada de Salleg
-El Meridiano,260059,William,Salleg Taboada
-El Meridiano,260060,Julio ,Salleg Taboada
-El Meridiano,260061,Enrique,Salleg Taboada
-El Universal,270062,Domingo,López Escauriaza
-El Universal,270063,Eduardo,Ferrer Ferrer
-Zona Cero,000000,NULL,NULL
-La Piragua,000000,NULL,NULL
-Periodismo Público,000000,NULL,NULL
-Diario del Huila,280064,Maximiliano,Duque Gómez
-Diario del Huila,280065,Max Francisco,Duque Palma
-Opanoticias,000000,NULL,NULL
-Hoy Diario del Magdalena,000000,NULL,NULL
-Seguimiento,000000,NULL,NULL
-Santa Marta Al Día,000000,NULL,NULL
-Periódico del Meta,290066,Juan Guillermo,Herrera
-Periódico del Meta,290067,Jhon,Moreno
-Nariño Hoy,000000,NULL,NULL
-El Quindiano,000000,NULL,NULL
-La Crónica del Quindío,000000,NULL,NULL
-El Expreso,000000,NULL,NULL
-Vanguardia LIberal,300068,Alejandro,Galvis Galvis
-A La Luz Pública,000000,NULL,NULL
-El Olfato,000000,NULL,NULL
-El Informador,310069,José ,Vives de Andreis
-La Nación,320070,Jesús,Oviedo Perez
-El Diario,330071,Emilio,Correa Uribe
-Mundo Noticias,000000,NULL,NULL
-El Bolivarense,000000,NULL,NULL
-La Patria,000000,NULL,NULL
-Periodico Virtual,000000,NULL,NULL
+ID_FUNDADOR,NOMBRE_FUNDADOR,APELLIDO_FUNDADOR
+010001,Alfonso ,Villegas Restrepo
+020002,Fidel ,Cano Gutiérrez
+030003,Jan ,Stembeck 
+040004,Juan,Tomás de Salas
+040005,Daniel,Samper Pizano
+050006,Laureano ,Gómez  
+050007,José ,de la Vega
+060008,Hernando,Suaréz Burgos
+070008,Hernando,Suaréz Burgos
+080001,Alfonso,Villegas Restrepo
+090009,Felipe ,López Caballero
+100010,Francisco,de Paula Pérez
+110011,Álvaro,Lloreda Caicedo
+110012,Alfredo,Lloreda
+120013,María Elvira,Bonilla Otoya
+120014,Elisa,Pastrana
+120015,Adriana,Arcila
+120016,León ,Valencia
+120017,Natalia,Orozco
+120018,Fernando,Otoya
+120019,Rafael ,Santos
+120020,Jorge Enrique ,Botero
+120021,Margarita,Londoño Vélez
+120022,Alonso ,Salazar
+120023,Adriana,Mejía
+120024,Ricardo,Correa
+120025,Sergio ,Álvarez
+130026,Luis Fernando,Santos
+130027,Guillermo,Franco
+130028,Gregorio,Márquez
+130029,Paula,Barrientos
+130030,Joshua,Castaño
+130031,Hernando,Paniagua
+130032,Diego ,Carvajal
+130033,Sofía ,Herrera
+140034,Mauricio,Rodríguez Múnera
+150035,Mariano,Ospina Pérez
+160036,Alberto,Pumarejo
+160037,Juan B.,Fernández Ortega
+160038,Luis Eduardo,Manotas Llinás
+170039,Virgilio ,Barco Vargas
+170040,Eustorgio,Colmenares Baptista
+170041,Eduardo,Silva
+170042,Alirio,Sánchez
+170043,León ,Colmenares
+180044,Antonio,Melo Salazar
+180045,Fernando,Melendez
+180046,Julio,Londoño Botero
+190047,Alejandro,Galvis Ramírez
+190048,María Elvira,Domínguez Lloreda
+190049,Martha,Ortiz Gómez
+200047,Alejandro,Galvis Ramírez
+200048,María Elvira,Domínguez Lloreda
+200049,Martha,Ortiz Gómez
+210008,Hernando,Suárez Burgos
+220008,Hernando,Suárez Burgos
+000000,NULL,NULL
+000000,NULL,NULL
+000000,NULL,NULL
+230050,Luis,Amigó
+230051,Maira,Arbeláez
+230052,Luz Avané,Cataño
+230053,Dúber,Cano
+240054,Taryn,Escalona
+250055,Dickson,Quiroz Torres
+250056,Iván Alejandro,Duarte
+000000,NULL,NULL
+000000,NULL,NULL
+260057,William,Salleg Sofán
+260058,Olga ,Taboada de Salleg
+260059,William,Salleg Taboada
+260060,Julio ,Salleg Taboada
+260061,Enrique,Salleg Taboada
+270062,Domingo,López Escauriaza
+270063,Eduardo,Ferrer Ferrer
+000000,NULL,NULL
+000000,NULL,NULL
+000000,NULL,NULL
+280064,Maximiliano,Duque Gómez
+280065,Max Francisco,Duque Palma
+000000,NULL,NULL
+000000,NULL,NULL
+000000,NULL,NULL
+000000,NULL,NULL
+290066,Juan Guillermo,Herrera
+290067,Jhon,Moreno
+000000,NULL,NULL
+000000,NULL,NULL
+000000,NULL,NULL
+000000,NULL,NULL
+300068,Alejandro,Galvis Galvis
+000000,NULL,NULL
+000000,NULL,NULL
+310069,José ,Vives de Andreis
+320070,Jesús,Oviedo Perez
+330071,Emilio,Correa Uribe
+000000,NULL,NULL
+000000,NULL,NULL
+000000,NULL,NULL
+000000,NULL,NULL

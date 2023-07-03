@@ -1,0 +1,624 @@
+ID_CATEGORIA,NOMBRE_CATEGORIA,URL_CATEGORIA
+000001,OPINIÓN,https://www.eltiempo.com/opinion
+000002,COLOMBIA,https://www.eltiempo.com/colombia
+000003,BOGOTÁ,https://www.eltiempo.com/bogota
+000004,INTERNACIONAL,https://www.eltiempo.com/mundo
+000005,POLÍTICA,https://www.eltiempo.com/politica
+000006,JUSTICIA,https://www.eltiempo.com/justicia
+000007,ECONOMÍA,https://www.eltiempo.com/economia
+000008,DEPORTES,https://www.eltiempo.com/deportes
+000009,CULTURA,https://www.eltiempo.com/cultura
+000010,TECNOLOGÍA,https://www.eltiempo.com/tecnosfera
+000011,VIDA,https://www.eltiempo.com/vida
+000012,SALUD,https://www.eltiempo.com/salud
+000013,UNIDAD INVESTIGATIVA,https://www.eltiempo.com/unidad-investigativa
+000014,OPINIÓN,https://www.elespectador.com/opinion/
+000015,ÚLTIMAS NOTICIAS,https://www.elespectador.com/ultimas-noticias-colombia/
+000016,EE PLAY,https://www.elespectador.com/ee-play/
+000017,POLITICA,https://www.elespectador.com/politica/
+000018,DEPORTES,https://www.elespectador.com/deportes/
+000019,MUNDO,https://www.elespectador.com/mundo/
+000020,ECONOMÍA,https://www.elespectador.com/economia/
+000021,JUDICIAL,https://www.elespectador.com/judicial/
+000022,COLOMBIA,https://www.elespectador.com/colombia/
+000023,COLOMBIA + 20,https://www.elespectador.com/colombia-20/
+000024,EL MAGAZÍN CULTURAL,https://www.elespectador.com/el-magazin-cultural/
+000025,NOTICIAS,https://www.publimetro.co/noticias/
+000026,ENTRETENIMIENTO,https://www.publimetro.co/entretenimiento/
+000027,DEPORTES,https://www.publimetro.co/deportes/
+000028,BOGOTÁ,https://www.publimetro.co/bogota/
+000029,TECNOLOGÍA,https://www.publimetro.co/tecnologia/
+000030,ESTILO DE VIDA,https://www.publimetro.co/estilo-vida/
+000031,COLUMNISTAS,https://www.publimetro.co/opinion/
+000032,PUBLIPETS,https://www.publimetro.co/publipets/
+000033,PUBLIMETRO TV,https://www.publimetro.co/publimetro-tv/
+000034,GOURMETRO,https://www.publimetro.co/gourmetro/
+000035,EMPRENDEDORES,https://www.publimetro.co/emprendedores/
+000036,PODER,https://cambiocolombia.com/poder
+000037,LOS DANIELS,https://cambiocolombia.com/los-danieles
+000038,PUNTOS DE VISTA,https://cambiocolombia.com/puntos-de-vista
+000039,PAÍS,https://cambiocolombia.com/pais
+000040,ECONOMÍA,https://cambiocolombia.com/economia
+000041,MEDIO AMBIENTE,https://cambiocolombia.com/medio-ambiente
+000042,TECNOLOGÍA,https://cambiocolombia.com/tecnologia
+000043,INTERNACIONAL,https://cambiocolombia.com/internacional
+000044,CULTURA,https://cambiocolombia.com/cultura
+000045,SALUD Y BIENESTAR,https://cambiocolombia.com/salud-y-bienestar
+000046,EDITORIAL,https://www.elnuevosiglo.com.co/seccion/editorial
+000047,NACIÓN,https://www.elnuevosiglo.com.co/seccion/nacion
+000048,POLÍTICA,https://www.elnuevosiglo.com.co/seccion/politica
+000049,MUNDO,https://www.elnuevosiglo.com.co/seccion/mundo
+000050,ECONOMÍA,https://www.elnuevosiglo.com.co/seccion/economia
+000051,DEPORTES,https://www.elnuevosiglo.com.co/seccion/deportes
+000052,CULTURA,https://www.elnuevosiglo.com.co/seccion/cultura
+000053,AMBIENTE,https://www.elnuevosiglo.com.co/seccion/ambiente-y-ciencia
+000054,MULTIMEDIA,https://www.elnuevosiglo.com.co/seccion/multimedia
+000055,NACIONAL,https://extra.com.co/noticias/nacional/
+000056,JUDICIAL,https://extra.com.co/noticias/judicial/
+000057,POLÍTICA,https://extra.com.co/noticias/politica-6/
+000058,INTERNACIONAL,https://extra.com.co/noticias/internacional/
+000059,DEPORTES,https://extra.com.co/noticias/deportes/
+000060,ESPECIALES,https://extra.com.co/noticias/especiales/
+000061,OPINIÓN,https://extra.com.co/noticias/opinion/
+000062,VIDA MODERNA,https://extra.com.co/noticias/vida-moderna/
+000063,REGIONES,https://extra.com.co/noticias/regiones/
+000064,LOCAL,https://www.diariodelsur.com.co/seccion/pasto/
+000065,POLÍTICA,https://www.diariodelsur.com.co/seccion/politica/
+000066,NACIONAL,https://www.diariodelsur.com.co/seccion/nacional/
+000067,JUDICIAL,https://www.diariodelsur.com.co/seccion/judicial/
+000068,DEPORTES,https://www.diariodelsur.com.co/seccion/deportes/
+000069,OPINIÓN,https://www.diariodelsur.com.co/seccion/opinion/
+000070,MUNICIPIOS,https://www.diariodelsur.com.co/seccion/municipios/
+000071,PUTUMAYO,https://www.diariodelsur.com.co/seccion/putumayo/
+000072,VIDA MODERNA,https://www.diariodelsur.com.co/seccion/vida-moderna/
+000073,INTERNACIONAL,https://www.diariodelsur.com.co/seccion/internacional/
+000074,CIENCIA Y TECNOLOGÍA,https://www.diariodelsur.com.co/seccion/ciencia-y-tecnologia/
+000075,TURISMO,https://www.diariodelsur.com.co/seccion/turismo/
+000076,MEDIO AMBIENTE,https://www.diariodelsur.com.co/seccion/medio-ambiente/
+000077,ESPECTÁCULO,https://www.diariodelsur.com.co/seccion/espectaculo/
+000078,ASÍ PASÓ,https://www.qhubocali.com/asi-paso/
+000079,JUDICIALES,https://www.qhubocali.com/judiciales/
+000080,ZONA ROSA,https://www.qhubocali.com/zona-rosa/
+000081,ESPECIALES,https://www.qhubocali.com/especiales/
+000082,MUNDO CURIOSO,https://www.qhubocali.com/mundo-curioso/
+000083,DEPORTES,https://www.qhubocali.com/deportes/
+000084,CLASIFICADOS QHUBO,https://www.qhubocali.com/clasificado/
+000085,APOYO SOCIAL,https://www.qhubocali.com/apoyo-social/
+000086,EL CORAZÓN DE LA SALUD,https://www.qhubocali.com/el-corazon-de-la-salud/
+000087,ACTUALIDAD,https://www.qhubocali.com/actualidad/
+000088,ÚLTIMAS NOTICIAS,https://qhubomedellin.com/categoria/ultimas-noticias/
+000089,FANÁTICOS,https://qhubomedellin.com/categoria/fanaticos/
+000090,MUNDO LABORAL,https://qhubomedellin.com/categoria/mundo-laboral/
+000091,CUIDE SU BILLETE,https://qhubomedellin.com/categoria/cuide-su-billete/
+000092,ENTRETENIMIENTO,https://qhubomedellin.com/categoria/entretenimiento/
+000093,SERVICIOS SOCIALES,https://qhubomedellin.com/categoria/servicios-sociales/
+000094,SOLIDARIDAD Q'HUBO,https://qhubomedellin.com/categoria/solidaridad-qhubo/
+000095,MI GENTE,https://qhubomedellin.com/categoria/mi-gente/
+000096,DESDE LAS MARCAS,https://qhubomedellin.com/categoria/contenido-comercial/
+000097,REGIONES,https://www.diarioadn.co/seccion/regiones
+000098,ACTUALIDAD,https://www.diarioadn.co/seccion/actualidad
+000099,CULTURA,https://www.diarioadn.co/seccion/cultura
+000100,VIDA,https://www.diarioadn.co/seccion/vida
+000101,DEPORTES,https://www.diarioadn.co/seccion/deportes
+000102,ESTADOS UNIDOS,https://www.semana.com/noticias-estados-unidos/
+000103,NACIÓN,https://www.semana.com/nacion/
+000104,OPINIÓN,https://www.semana.com/opinion/
+000105,VIDA MODERNA,https://www.semana.com/vida-moderna/
+000106,GENTE,https://www.semana.com/gente/
+000107,ESPECIALES,https://www.semana.com/especiales/
+000108,GALERÍAS,https://www.semana.com/fotos/
+000109,COCINA,https://www.semana.com/cocina/
+000110,ECONOMÍA,https://www.semana.com/economia/
+000111,ARCADIA,https://www.semana.com/cultura/
+000112,4 PATAS,https://www.semana.com/4patas/
+000113,SOSTENIBLE,https://www.semana.com/sostenible/
+000114,FINANZAS PERSONALES,https://www.semana.com/finanzas/
+000115,FOROS SEMANA,https://www.semana.com/foros-semana/
+000116,SEMANA RURAL,https://www.semana.com/semanarural/
+000117,MEDELLÍN,https://www.elcolombiano.com/medellin
+000118,COLOMBIA,https://www.elcolombiano.com/colombia
+000119,ECONOMÍA,https://www.elcolombiano.com/negocios
+000120,DEPORTES,https://www.elcolombiano.com/deportes
+000121,OPINIÓN,https://www.elcolombiano.com/opinion
+000122,ANTIOQUIA,https://www.elcolombiano.com/antioquia
+000123,MUNDO,https://www.elcolombiano.com/internacional
+000124,CULTURA,https://www.elcolombiano.com/cultura
+000125,TENDENCIAS,https://www.elcolombiano.com/tendencias
+000126,TECNOLOGÍA,https://www.elcolombiano.com/tecnologia
+000127,ENTRETENIMIENTO,https://www.elcolombiano.com/entretenimiento
+000128,ENTRETENIMIENTO,https://www.elpais.com.co/entretenimiento/
+000129,JUDICIAL,https://www.elpais.com.co/judicial/
+000130,ECONOMÍA,https://www.elpais.com.co/economia/
+000131,VALLE,https://www.elpais.com.co/valle/
+000132,COLOMBIA,https://www.elpais.com.co/colombia/
+000133,MUNDO,https://www.elpais.com.co/mundo/
+000134,POLÍTICA,https://www.elpais.com.co/politica/
+000135,TECNOLOGÍA,https://www.elpais.com.co/tecnologia/
+000136,CULTURA,https://www.elpais.com.co/cultura/
+000137,SALUD,https://www.elpais.com.co/salud/
+000138,EDUCACIÓN,https://www.elpais.com.co/educacion/
+000139,MEDIO AMBIENTE,https://www.elpais.com.co/medio-ambiente/
+000140,VEHÍCULOS,https://www.elpais.com.co/vehiculos/
+000141,MULTIMEDIA,https://www.elpais.com.co/multimedia/
+000142,INFORMACIÓN COMERCIAL,https://www.elpais.com.co/informacion-comercial/
+000143,DEPORTES,https://www.elpais.com.co/deportes/
+000144,CALI,https://www.elpais.com.co/cali/
+000145,PODER,https://www.las2orillas.co/c/poder/
+000146,AL MINUTO,https://www.las2orillas.co/c/al-minuto/
+000147,ACTUALIDAD,https://www.las2orillas.co/c/actualidad/
+000148,EN CALIENTE,https://www.las2orillas.co/c/encaliente/
+000149,OPINIÓN,https://www.las2orillas.co/c/opinion/
+000150,NOTA CIUDADANA,https://www.las2orillas.co/c/notaciudadana/
+000151,CONVERSACIONES,https://www.las2orillas.co/conversacionesl2o/
+000152,NACIÓN,https://www.pulzo.com/nacion
+000153,TECNOLOGÍA,https://www.pulzo.com/tecnologia
+000154,VIVIR BIEN,https://www.pulzo.com/vivir-bien
+000155,CARROS,https://www.pulzo.com/carros
+000156,ÚLTIMAS NOTICIAS,https://www.pulzo.com/ultimas-noticias
+000157,VIRALES,https://www.pulzo.com/virales
+000158,OPINIÓN,https://www.pulzo.com/opinion
+000159,MUNDO,https://www.pulzo.com/mundo
+000160,ENTRETENIMIENTO,https://www.pulzo.com/entretenimiento
+000161,DEPORTES,https://www.pulzo.com/deportes
+000162,ECONOMÍA,https://www.pulzo.com/economia
+000163,RECETAS,https://www.pulzo.com/recetas
+000164,INTERNACIONAL,https://www.portafolio.co/internacional
+000165,FINANZAS,https://www.portafolio.co/mis-finanzas
+000166,ECONOMÍA,https://www.portafolio.co/economia
+000167,INNOVACIÓN,https://www.portafolio.co/innovacion
+000168,OPINIÓN,https://www.portafolio.co/opinion
+000169,NEGOCIOS,https://www.portafolio.co/negocios
+000170,INDICADORES Y MERCADO,https://www.portafolio.co/indicadores-economicos
+000171,TENDENCIAS,https://www.portafolio.co/tendencias
+000172,ALTA GERENCIA,https://www.larepublica.co/alta-gerencia
+000173,ANÁLISIS,https://www.larepublica.co/analisis
+000174,CAJA FUERTE,https://www.larepublica.co/caja-fuerte
+000175,COMUNIDAD EMPRESARIAL,https://www.larepublica.co/comunidad-empresarial
+000176,CONSUMO,https://www.larepublica.co/consumo
+000177,ECONOMÍA,https://www.larepublica.co/economia
+000178,EMPRESAS,https://www.larepublica.co/empresas
+000179,ESPECIALES,https://www.larepublica.co/especiales
+000180,EVENTOS,https://www.larepublica.co/foros
+000181,FINANZAS,https://www.larepublica.co/finanzas
+000182,FINANZAS PERSONALES,https://www.larepublica.co/finanzas-personales
+000183,GLOBOECONOMÍA,https://www.larepublica.co/globoeconomia
+000184,INDICADORES,https://www.larepublica.co/indicadores-economicos
+000185,INFRAESTRUCTURA,https://www.larepublica.co/infraestructura
+000186,INTERNET ECONOMY,https://www.larepublica.co/internet-economy
+000187,OBITUARIOS,https://www.larepublica.co/obituarios
+000188,OCIO,https://www.larepublica.co/ocio
+000189,RESPONSABILIDAD SOCIAL,https://www.larepublica.co/responsabilidad-social
+000190,SALUD EJECUTIVA,https://www.larepublica.co/salud-ejecutiva
+000191,SOCIALES,https://www.larepublica.co/sociales
+000192,VIDEOS,https://www.larepublica.co/videos
+000193,LOCALES,https://www.elheraldo.co/local
+000194,REGIÓN,https://www.elheraldo.co/region
+000195,JUDICIAL,https://www.elheraldo.co/judicial
+000196,ECONOMÍA,https://www.elheraldo.co/economia
+000197,CULTURA,https://www.elheraldo.co/cultura
+000198,MEDIO AMBIENTE,https://www.elheraldo.co/medio-ambiente
+000199,DEPORTES,https://www.elheraldo.co/deportes
+000200,OPINIÓN,https://www.elheraldo.co/opinion
+000201,EDUCACIÓN,https://www.elheraldo.co/educacion
+000202,SALUD,https://www.elheraldo.co/salud
+000203,CORONAVIRUS,https://www.elheraldo.co/coronavirus
+000204,MUJER E IGUALDAD,https://www.elheraldo.co/mujer
+000205,CIENCIA,https://www.elheraldo.co/ciencias
+000206,TECNOLOGÍA,https://www.elheraldo.co/tecnologia
+000207,TURISMO,https://www.elheraldo.co/turismo
+000208,MASCOTAS,https://www.elheraldo.co/mascotas
+000209,FAMILIA,https://www.elheraldo.co/familia
+000210,LGBTI,https://www.elheraldo.co/LGBT
+000211,MIGRACIÓN,https://www.elheraldo.co/migracion
+000212,CÚCUTA,https://www.laopinion.com.co/cucuta
+000213,REGIÓN,https://www.laopinion.com.co/region
+000214,FRONTERA,https://www.laopinion.com.co/frontera
+000215,DEPORTES,https://www.laopinion.com.co/deportes
+000216,ECONOMÍA,https://www.laopinion.com.co/economia
+000217,VIDA,https://www.laopinion.com.co/vida-y-salud
+000218,OPINIÓN,https://www.laopinion.com.co/opinion
+000219,ACTUALIDAD,https://www.laopinion.com.co/actualidad
+000220,JUDICIAL,https://www.laopinion.com.co/judicial
+000221,LA Ó,https://www.laopinion.com.co/la-o
+000222,TECNOLOGÍA,https://www.laopinion.com.co/tecnologia
+000223,IBAGUÉ,https://www.elnuevodia.com.co/nuevodia/ibague
+000224,TOLIMA,https://www.elnuevodia.com.co/nuevodia/tolima
+000225,JUDICIAL,https://www.elnuevodia.com.co/nuevodia/judicial
+000226,COLOMBIA,https://www.elnuevodia.com.co/nuevodia/colombia
+000227,POLÍTICA,https://www.elnuevodia.com.co/nuevodia/politica
+000228,ECONÓMICA,https://www.elnuevodia.com.co/nuevodia/economica
+000229,DEPORTES,https://www.elnuevodia.com.co/nuevodia/deportes
+000230,OPINIÓN,https://www.elnuevodia.com.co/nuevodia/opinion
+000231,ACTUALIDAD,https://www.elnuevodia.com.co/nuevodia/actualidad
+000232,ZONA GEEK,https://www.elnuevodia.com.co/nuevodia/zona-geek
+000233,MUNDO,https://www.elnuevodia.com.co/nuevodia/mundo
+000234,SALUD,https://www.elnuevodia.com.co/nuevodia/salud-1
+000235,ESPECIALES,https://www.elnuevodia.com.co/nuevodia/especiales
+000236,GENERALES,https://www.elnuevodia.com.co/nuevodia/otros/generales
+000237,CRÓNICAS,https://www.elnuevodia.com.co/nuevodia/otros/cronicas
+000238,ECOLÓGICA,https://www.elnuevodia.com.co/nuevodia/otros/ecologica
+000239,EDUCACIÓN,https://www.elnuevodia.com.co/nuevodia/otros/educacion
+000240,JÓVENES,https://www.elnuevodia.com.co/nuevodia/otros/jovenes
+000241,SÉPTIMO DÍA,https://www.elnuevodia.com.co/nuevodia/otros/septimo-dia
+000242,TECNOLOGÍA,https://www.elnuevodia.com.co/nuevodia/otros/tecnologia
+000243,INFORMACIÓN COMERCIAL,https://www.elnuevodia.com.co/nuevodia/otros/contenido-patrocinado
+000244,ENTRE CALLES DE IBAGUÉ,https://www.elnuevodia.com.co/nuevodia/otros/entre-calles-de-ibague
+000245,LOCAL,https://diariodelcauca.com.co/category/local/
+000246,POLÍTICA,https://diariodelcauca.com.co/category/politica/
+000247,JUDICIAL,https://diariodelcauca.com.co/category/judicial/
+000248,DEPORTES,https://diariodelcauca.com.co/category/deportes/
+000249,ECONOMÍA,https://diariodelcauca.com.co/category/economia/
+000250,OPINIÓN,https://diariodelcauca.com.co/category/opinion/
+000251,VIDA MODERNA,https://diariodelcauca.com.co/category/vida-moderna/
+000252,NACIONAL,https://diariodelcauca.com.co/category/nacional/
+000253,EDITORIAL,https://diariodelcauca.com.co/category/editorial/
+000254,CIENCIA Y TECNOLOGÍA,https://diariodelcauca.com.co/category/ciencia-y-tecnologia/
+000255,ESPECTÁCULO,https://diariodelcauca.com.co/category/espectaculo/
+000256,HORÓSCOPO,https://diariodelcauca.com.co/category/horoscopo/
+000257,INTERNACIONAL,https://diariodelcauca.com.co/category/internacional/
+000258,MEDIO AMBIENTE,https://diariodelcauca.com.co/category/medio-ambiente/
+000259,PARANORMAL,https://diariodelcauca.com.co/category/paranormal/
+000260,SALUD,https://diariodelcauca.com.co/category/salud/
+000261,TURISMO,https://diariodelcauca.com.co/category/turismo/
+000262,VIDEOJUEGOS,https://diariodelcauca.com.co/category/video-juegos/
+000263,FÚTBOL,https://elperiodicodeportivo.com.co/category/futbol/
+000264,CICLISMO,https://elperiodicodeportivo.com.co/category/ciclismo/
+000265,BALONCESTO,https://elperiodicodeportivo.com.co/category/baloncesto/
+000266,BEISBOL,https://elperiodicodeportivo.com.co/category/beisbol/
+000267,BOXEO,https://elperiodicodeportivo.com.co/category/boxeo/
+000268,TENIS,https://elperiodicodeportivo.com.co/category/tenis/
+000269,PATINAJE,https://elperiodicodeportivo.com.co/category/patinaje/
+000270,OTROS DEPORTES,https://elperiodicodeportivo.com.co/category/otros-deportes/
+000271,AUTOMOVILISMO,https://elperiodicodeportivo.com.co/category/automovilismo/
+000272,ÚLTIMAS NOTICIAS,https://www.proclamadelcauca.com/tema/noticias-proclama-del-cauca/
+000273,MUNICIPIOS DEL CAUCA,https://www.proclamadelcauca.com/tema/noticias-proclama-del-cauca/municipios/
+000274,MUNICIPIOS DEL VALLE,https://www.proclamadelcauca.com/tema/noticias-proclama-del-cauca/valle-del-cauca/
+000275,OPINIÓN,https://www.proclamadelcauca.com/opinion-columnistas/
+000276,SOCIALES,https://www.proclamadelcauca.com/tema/noticias-proclama-del-cauca/sociales/
+000277,POLÍTICA,https://www.proclamadelcauca.com/tema/noticias-proclama-del-cauca/politica/
+000278,ESPECIALES,https://www.proclamadelcauca.com/tema/noticias-proclama-del-cauca/especiales/
+000279,EDICTOS-CLASIFICADOS,https://www.proclamadelcauca.com/tema/noticias-proclama-del-cauca/publicidad-clasificados-comerciales/
+000280,FÚTBOL COLOMBIANO,https://eldeportivo.com.co/futbol-colombiano/
+000281,COLOMBIANOS EN EL EXTERIOR,https://eldeportivo.com.co/colombianos-en-el-exterior/
+000282,FÚTBOL INTERNACIONAL,https://eldeportivo.com.co/futbol-internacional/
+000283,SELECCIÓN COLOMBIA,https://eldeportivo.com.co/seleccion-colombia/
+000284,MÁS DEPORTES,https://eldeportivo.com.co/mas-deportes/
+000285,MEDELLÍN AQUÍ TODO FLORECE,https://www.minuto30.com/noticias-de-medellin-aqui-todo-florece/
+000286,MEDELLÍN,https://www.minuto30.com/medellin/
+000287,BOGOTÁ,https://www.minuto30.com/bogota/
+000288,ANTIOQUIA,https://www.minuto30.com/antioquia/
+000289,CALI,https://www.minuto30.com/noticias-de-cali/
+000290,COLOMBIA,https://www.minuto30.com/colombia/
+000291,POLÍTICA,https://www.minuto30.com/politica/
+000292,DEPORTE,https://www.minuto30.com/deportes/
+000293,ECONOMÍA,https://www.minuto30.com/economia/
+000294,LIGA BETPLAY,https://www.minuto30.com/liga-betplay/
+000295,ATLÉTICO NACIONAL,https://www.minuto30.com/atletico-nacional/
+000296,ENTRETENIMIENTO,https://www.minuto30.com/entretenimiento/
+000297,FARÁNDULA,https://www.minuto30.com/farandula/
+000298,ANTIOQUIA,http://www.elpalpitar.com/category/antioquia/
+000299,SEGURIDAD,http://www.elpalpitar.com/category/seguridad/
+000300,NACIÓN,http://www.elpalpitar.com/category/nacion/
+000301,JUSTICIA,http://www.elpalpitar.com/category/justicia/
+000302,PAZ,http://www.elpalpitar.com/category/paz/
+000303,POLÍTICA,http://www.elpalpitar.com/category/politica/
+000304,SALUD,http://www.elpalpitar.com/category/salud/
+000305,DERECHOS HUMANOS,http://www.elpalpitar.com/category/derechos-humanos/
+000306,CULTURA,http://www.elpalpitar.com/category/cultura/
+000307,TECNOLOGÍA,http://www.elpalpitar.com/category/tecnologia/
+000308,DEPORTES,http://www.elpalpitar.com/category/deportes/
+000309,MUNDO,http://www.elpalpitar.com/category/mundo/
+000310,CONECTÉMONOS,http://www.elpalpitar.com/category/conectemonos/
+000311,OPINIÓN,http://www.elpalpitar.com/category/opinion/
+000312,MEDIO AMBIENTE,http://www.elpalpitar.com/category/medio-ambiente/
+000313,ECONOMÍA,http://www.elpalpitar.com/category/economia/
+000314,POLÍTICA,https://www.elpaisvallenato.com/category/politica/
+000315,JUDICIAL,https://www.elpaisvallenato.com/category/judicial/
+000316,GENERAL,https://www.elpaisvallenato.com/category/general/
+000317,LOCAL,https://www.elpaisvallenato.com/category/local/
+000318,ECONOMÍA,https://www.elpaisvallenato.com/category/economia/
+000319,NACIONAL,https://www.elpaisvallenato.com/category/nacional/
+000320,ACTUALIDAD,https://www.elpaisvallenato.com/category/actualidad/
+000321,ENTRETENIMIENTO,https://www.elpaisvallenato.com/category/entretenimiento/
+000322,INTERNACIONAL,https://www.elpaisvallenato.com/category/internacional/
+000323,SALUD,https://www.elpaisvallenato.com/category/salud/
+000324,TECNOLOGÍA,https://www.elpaisvallenato.com/category/tecnologia/
+000325,CRÓNICAS,https://www.elpaisvallenato.com/category/cronicas/
+000326,CULTURA,https://www.elpaisvallenato.com/category/cultura/
+000327,FOLCLOR,https://www.elpaisvallenato.com/category/folclor/
+000328,GASTRONOMÍA,https://www.elpaisvallenato.com/category/gastronomia/
+000329,HISTORIAS,https://www.elpaisvallenato.com/category/historias/
+000330,MEDIO AMBIENTE,https://www.elpaisvallenato.com/category/medio-ambiente/
+000331,MODA Y BELLEZA,https://www.elpaisvallenato.com/category/belleza/
+000332,REFLEXIONES,https://www.elpaisvallenato.com/category/reflexiones/
+000333,VARIEDADES,https://www.elpaisvallenato.com/category/variedades/
+000334,DEPORTES,https://www.elpaisvallenato.com/category/deportes/
+000335,OPINIÓN,https://www.elpaisvallenato.com/category/opinion/
+000336,LA PAZ ES NOTICIA,https://www.midiario.co/category/la-paz-es-noticia/
+000337,POLÍTICA,https://www.midiario.co/category/politica/
+000338,NACIONALES,https://www.midiario.co/category/nacionales/
+000339,JUDICIALES,https://www.midiario.co/category/judiciales/
+000340,ECONÓMICAS,https://www.midiario.co/category/econimicas/
+000341,DEPORTES,https://www.midiario.co/category/deportes/
+000342,FARÁNDULA,https://www.midiario.co/category/farandula/
+000343,OPINIÓN,https://www.midiario.co/category/opinion/
+000344,CÓRDOBA,https://larazon.co/seccion-cordoba/
+000345,MONTERÍA,https://larazon.co/seccion-monteria/
+000346,JUDICIALES,https://larazon.co/judiciales/
+000347,DEPORTES,https://larazon.co/seccion-deportes/
+000348,PAÍS,https://larazon.co/seccion-pais/
+000349,TENDENCIAS,https://larazon.co/tendencias/
+000350,INTERNACIONAL,https://larazon.co/mundo/
+000351,CÓRDOBA,https://elmeridiano.co/cordoba/
+000352,SUCRE,https://elmeridiano.co/sucre/
+000353,COLOMBIA,https://elmeridiano.co/colombia/
+000354,MUNDO,https://elmeridiano.co/mundo/
+000355,OPINIÓN,https://elmeridiano.co/opinion/
+000356,DEPORTES,https://elmeridiano.co/deportes/
+000357,VIDA HOY,https://elmeridiano.co/vida/
+000358,AGRO Y ECONOMÍA,https://elmeridiano.co/agro-y-economia/
+000359,CASO CHOCHÓ,https://elmeridiano.co/caso-chocho/
+000360,PUENTES Y SUS HISTORIAS,https://elmeridiano.co/category/puentes-y-sus-historias/
+000361,JUDICIAL,https://elpilon.com.co/Noticias/judicial/
+000362,OPINIÓN,https://elpilon.com.co/Noticias/opinion/
+000363,EMPLEO,https://elpilon.com.co/Noticias/valledupar/economicas/empleos-valledupar-colombia/
+000364,TENDENCIAS,https://elpilon.com.co/Noticias/entretenimiento/tendencias-2/
+000365,VALLENATO,https://elpilon.com.co/Noticias/el-vallenato/
+000366,GENERAL,https://elpilon.com.co/Noticias/valledupar/general/
+000367,DEPORTE,https://elpilon.com.co/Noticias/deportes/
+000368,CARTAGENA,https://www.eluniversal.com.co/cartagena
+000369,REGIONAL,https://www.eluniversal.com.co/regional
+000370,COLOMBIA,https://www.eluniversal.com.co/colombia
+000371,POLÍTICA,https://www.eluniversal.com.co/politica
+000372,OPINIÓN,https://www.eluniversal.com.co/opinion
+000373,SUCESOS,https://www.eluniversal.com.co/sucesos
+000374,DEPORTES,https://www.eluniversal.com.co/deportes
+000375,ECONÓMICA,https://www.eluniversal.com.co/economica
+000376,FARÁNDULA,https://www.eluniversal.com.co/farandula
+000377,MUNDO,https://www.eluniversal.com.co/mundo
+000378,AUTOS,https://www.eluniversal.com.co/autos
+000379,AMBIENTE,https://www.eluniversal.com.co/ambiente
+000380,CIENCIA,https://www.eluniversal.com.co/ciencia
+000381,CULTURAL,https://www.eluniversal.com.co/cultural
+000382,EDUCACIÓN,https://www.eluniversal.com.co/educacion
+000383,GASTRONOMÍA,https://www.eluniversal.com.co/gastronomia
+000384,MULTIMEDIA,https://www.eluniversal.com.co/multimedia
+000385,SALUD,https://www.eluniversal.com.co/salud
+000386,SOCIALES,https://www.eluniversal.com.co/sociales
+000387,TECNOLOGÍA,https://www.eluniversal.com.co/tecnologia
+000388,MONTERÍA,https://www.lapiragua.co/categorias/monteria/
+000389,CÓRDOBA,https://www.lapiragua.co/categorias/cordoba/
+000390,NACIONAL,https://www.lapiragua.co/categorias/nacional/
+000391,JUDICIAL,https://www.lapiragua.co/categorias/judicial/
+000392,POLÍTICA,https://www.lapiragua.co/categorias/politica/
+000393,DEPORTES,https://www.lapiragua.co/categorias/deportes/
+000394,OPINIÓN,https://www.lapiragua.co/categorias/opinion/
+000395,LA GARROCHA,https://www.lapiragua.co/categorias/garrocha/
+000396,ACTUALIDAD,https://www.lapiragua.co/categorias/actualidad/
+000397,INTERNACIONAL,https://www.lapiragua.co/categorias/internacional/
+000398,SOACHA,https://periodismopublico.com/seccion/soacha
+000399,CUNDINAMARCA,https://periodismopublico.com/seccion/cundinamarca
+000400,BOGOTÁ,https://periodismopublico.com/seccion/territorios/bogota
+000401,TERRITORIOS,https://periodismopublico.com/seccion/territorios
+000402,POLÍTICA,https://periodismopublico.com/seccion/politica
+000403,GENTE,https://periodismopublico.com/seccion/gente
+000404,DEPORTES,https://periodismopublico.com/seccion/gente/deportes
+000405,OPINIÓN,https://periodismopublico.com/seccion/opinion
+000406,EDITORIAL,https://periodismopublico.com/seccion/opinion/editorial
+000407,NEIVA,https://www.opanoticias.com/Neiva/categoria/13
+000408,HUILA,https://www.opanoticias.com/Huila/categoria/15
+000409,NACIONAL,https://www.opanoticias.com/Nacional/categoria/14
+000410,INTERNACIONAL,https://www.opanoticias.com/Internacional/categoria/12
+000411,DEPORTES,https://www.opanoticias.com/Deportes/categoria/7
+000412,SALUD,https://www.opanoticias.com/Salud/categoria/18
+000413,OPINIÓN,https://www.opanoticias.com/Opinion/categoria/9
+000414,CULTURA,https://www.opanoticias.com/Cultura/categoria/2
+000415,ECONOMÍA,https://www.opanoticias.com/Economia/categoria/16
+000416,FARANDULA,https://www.opanoticias.com/Farandula/categoria/8
+000417,NOTICIAS,https://www.opanoticias.com/Noticias/categoria/10
+000418,RECOMENDADOS,https://www.opanoticias.com/Recomendados/categoria/11
+000419,CIUDAD,https://www.hoydiariodelmagdalena.com.co/archivos/category/ciudad/
+000420,REGIONAL,https://www.hoydiariodelmagdalena.com.co/archivos/category/regional/
+000421,NACIÓN,https://www.hoydiariodelmagdalena.com.co/archivos/category/nacion/
+000422,JUDICIAL,https://www.hoydiariodelmagdalena.com.co/archivos/category/judicial/
+000423,SOCIALES,https://www.hoydiariodelmagdalena.com.co/archivos/category/sociales/
+000424,DEPORTES,https://www.hoydiariodelmagdalena.com.co/archivos/category/deportes/
+000425,MUNDO,https://www.hoydiariodelmagdalena.com.co/archivos/category/internacional/
+000426,CLASIFICADOS,https://www.hoydiariodelmagdalena.com.co/clasificadoshdm/
+000427,LA SAMARIA,https://www.seguimiento.co/la-samaria
+000428,MAGDALENA,https://www.seguimiento.co/magdalena
+000429,REGIÓN CARIBE,https://www.seguimiento.co/la-region-caribe
+000430,MUNDO,https://www.seguimiento.co/mundo
+000431,DEPORTES,https://www.seguimiento.co/deportes
+000432,LA HAMACA,https://www.seguimiento.co/la-hamaca
+000433,PARA NO OLVIDAR,https://www.seguimiento.co/para-no-olvidar
+000434,COLOMBIA,https://www.seguimiento.co/colombia
+000435,SANTA MARTA,https://santamartaaldia.co/category/santa-marta/
+000436,MAGDALENA,https://santamartaaldia.co/category/magdalena/
+000437,EDITORIAL,https://santamartaaldia.co/category/editorial/
+000438,COLOMBIA,https://santamartaaldia.co/category/colombia/
+000439,JUDICIALES,https://santamartaaldia.co/category/judiciales/
+000440,DEPORTES,https://santamartaaldia.co/category/deportes/
+000441,ENTRETENIMIENTO,https://santamartaaldia.co/category/entretenimiento/
+000442,MUNDO,https://santamartaaldia.co/category/mundo/
+000443,VILLAVICENCIO,https://periodicodelmeta.com/category/villavicencio/
+000444,REGIÓN,https://periodicodelmeta.com/category/region/
+000445,NACIONAL,https://periodicodelmeta.com/category/nacional/
+000446,ENTREVISTAS,https://periodicodelmeta.com/category/entrevistas/
+000447,COLUMNISTAS,https://periodicodelmeta.com/category/columnistas/
+000448,AMBIENTALES,https://periodicodelmeta.com/category/ambientales/
+000449,EXPERIENCIA DE PAZ,https://periodicodelmeta.com/category/experiencia_de_paz/
+000450,ENTRETENIMIENTO,https://periodicodelmeta.com/category/entretenimiento/
+000451,TURISMO,https://periodicodelmeta.com/category/turismo/
+000452,COLOMBIA,https://xn--nariohoy-g3a.com/category/noticias-2/colombia/
+000453,CULTURA,https://xn--nariohoy-g3a.com/category/cultura/
+000454,MUNDO,https://xn--nariohoy-g3a.com/category/noticias-2/mundo/
+000455,NARIÑO,https://xn--nariohoy-g3a.com/category/noticias-2/narino/
+000456,NOTICIAS,https://xn--nariohoy-g3a.com/category/noticias-2/
+000457,OPINIÓN,https://xn--nariohoy-g3a.com/category/opinion/
+000458,POLITICA,https://xn--nariohoy-g3a.com/category/politica/
+000459,PRENSA CIUDADANA,https://xn--nariohoy-g3a.com/category/prensa-ciudadana/
+000460,RADIO TV,https://xn--nariohoy-g3a.com/category/tv/
+000461,OPINIÓN,https://www.cronicadelquindio.com/opinion
+000462,DEPORTE,https://cronicadelquindio.com/noticias/deporte
+000463,ECONOMÍ­A,https://cronicadelquindio.com/noticias/economia
+000464,JUDICIAL,https://cronicadelquindio.com/noticias/judicial
+000465,REGIÓN,https://cronicadelquindio.com/noticias/region
+000466,LOCAL,https://cronicadelquindio.com/noticias/local
+000467,POR EJEMPLO,https://cronicadelquindio.com/noticias/por-ejemplo
+000468,GALERIAS,https://cronicadelquindio.com/noticias/galerias-1
+000469,GENERAL,https://cronicadelquindio.com/noticias/general
+000470,NOVEDADES,https://cronicadelquindio.com/noticias/novedades
+000471,CLASIFICADOS,https://www.cronicadelquindio.com/clasificado/listado
+000472,HOY QUÉ,https://www.elexpreso.co/es/iblog/c/0/231/hoy-que/
+000473,¿CÓMO LE PARECE?,https://www.elexpreso.co/es/iblog/c/G2/0/230/como-le-parece/
+000474,OPINIÓN,https://www.elexpreso.co/es/iblog/c/G15/0/232/opinion/
+000475,DENUNCIA,https://www.elexpreso.co/es/iblog/c/G5/0/236/denuncia/
+000476,FOROS EL EXPRESO,https://www.elexpreso.co/es/blog/categories/275-foros-el-expreso
+000477,BUCARAMANGA,https://www.vanguardia.com/area-metropolitana
+000478,SANTANDER,https://www.vanguardia.com/santander
+000479,DEPORTES,https://www.vanguardia.com/deportes
+000480,JUDICIAL,https://www.vanguardia.com/judicial
+000481,COLOMBIA,https://www.vanguardia.com/colombia
+000482,MUNDO,https://www.vanguardia.com/mundo
+000483,POLÍTICA,https://www.vanguardia.com/politica
+000484,ECONOMÍA,https://www.vanguardia.com/economia
+000485,OPINIÓN,https://www.vanguardia.com/opinion
+000486,ENTRETENIMIENTO,https://www.vanguardia.com/entretenimiento
+000487,TECNOLOGÍA,https://www.vanguardia.com/tecnologia
+000488,MULTIMEDIA,https://www.vanguardia.com/multimedia
+000489,KIDS,https://www.vanguardia.com/kids
+000490,PORTADA,https://www.alaluzpublica.com/portada/
+000491,POLÍTICA,https://www.alaluzpublica.com/politica/
+000492,MÁS NOTICIAS,https://www.alaluzpublica.com/mas-noticias/
+000493,A LA LUZ CON,https://www.alaluzpublica.com/a-la-luz-con/
+000494,CULTURA,https://www.alaluzpublica.com/cultura/
+000495,ECONÓMICAS,https://www.alaluzpublica.com/economicas/
+000496,NACIONAL,https://www.alaluzpublica.com/nacional/
+000497,OPINIÓN,https://www.alaluzpublica.com/opinion/
+000498,IBAGUÉ,https://www.alaluzpublica.com/ibague/
+000499,DEPORTES,https://www.elolfato.com/deportes
+000500,DESTACADO,https://www.elolfato.com/destacado
+000501,REDES SOCIALES,https://www.elolfato.com/redes-sociales
+000502,ESPECIALES,https://www.elolfato.com/especiales
+000503,GENERAL,https://www.elolfato.com/general
+000504,HISTORIAS,https://www.elolfato.com/historias
+000505,IBAGUÉ,https://www.elolfato.com/ibague
+000506,INVESTIGACIÓN,https://www.elolfato.com/investigacion
+000507,JUSTICIA,https://www.elolfato.com/justicia
+000508,MEDIO AMBIENTE,https://www.elolfato.com/medioambiente
+000509,NACIÓN,https://www.elolfato.com/nacion
+000510,PODER,https://www.elolfato.com/poder
+000511,PUBLICIDAD,https://www.elolfato.com/publicidad
+000512,REGIÓN,https://www.elolfato.com/region
+000513,SALUD,https://www.elolfato.com/salud
+000514,PODCAST,https://www.elolfato.com/podcast
+000515,SOCIALES,https://www.elolfato.com/sociales
+000516,COLOMBIA,https://www.elquindiano.com/noticias/13/colombia
+000517,ARMENIA,https://www.elquindiano.com/noticias/42/armenia
+000518,REGIÓN,https://www.elquindiano.com/noticias/15/region
+000519,CIENCIA Y TECNOLOGÍA,https://www.elquindiano.com/noticias/18/ciencia-y-tecnologia
+000520,LA COSECHA,https://www.elquindiano.com/noticias/49/la-cosecha
+000521,DENUNCIA,https://www.elquindiano.com/noticias/50/denuncia
+000522,CARICATURA,https://www.elquindiano.com/noticias/63/caricatura
+000523,OBITUARIO,https://www.elquindiano.com/noticias/64/obituario
+000524,MEDIO AMBIENTE,https://www.elquindiano.com/noticias/66/medio-ambiente
+000525,VIVIR SABROSO,https://www.elquindiano.com/noticias/95/vivir-sabroso
+000526,CLASIFICADOS Y AVISOS DE LEY,https://www.elquindiano.com/noticias/102/clasificados-y-avisos-de-ley
+000527,EDUCACIÓN,https://www.elquindiano.com/noticias/72/educacion
+000528,MUNDO,https://www.elquindiano.com/noticias/73/mundo
+000529,MASCOTAS,https://www.elquindiano.com/noticias/103/mascotas
+000530,PUBLIREPORTAJE,https://www.elquindiano.com/noticias/78/publireportaje
+000531,CALIGRATURAS,https://www.elquindiano.com/noticias/89/caligraturas
+000532,NEIVA,https://diariodelhuila.com/neiva/
+000533,HUILA,https://diariodelhuila.com/huila/
+000534,COLOMBIA,https://diariodelhuila.com/nacional/
+000535,POLÍTICA,https://diariodelhuila.com/politica/
+000536,INTERNACIONAL,https://diariodelhuila.com/internacional/
+000537,DEPORTES,https://diariodelhuila.com/deportes/
+000538,ECONOMÍA,https://diariodelhuila.com/economia/
+000539,JUDICIAL,https://diariodelhuila.com/judicial/
+000540,SOCIALES,https://diariodelhuila.com/sociales/
+000541,OPINIÓN,https://diariodelhuila.com/opinion/
+000542,ACTUALIDAD,https://diariodelhuila.com/actualidad/
+000543,CLASIFICADOS,https://diariodelhuila.com/clasificados/
+000544,GENERALES,https://zonacero.com/generales
+000545,MUNDO,https://zonacero.com/mundo
+000546,PODCAST,https://zonacero.com/podcast
+000547,POLÍTICA,https://zonacero.com/politica
+000548,SOCIALES,https://zonacero.com/sociales
+000549,EVENTOS,https://zonacero.com/eventos
+000550,DEPORTES,https://zonacero.com/deportes
+000551,TECNOLOGÍA,https://zonacero.com/tecnologia
+000552,MULTIMEDIA,https://zonacero.com/multimedia
+000553,JUDICIALES,https://zonacero.com/judiciales
+000554,OPINIÓN,https://zonacero.com/opinion
+000555,DISTRITO,https://www.elinformador.com.co/index.php/distrito
+000556,MAGDALENA,https://www.elinformador.com.co/index.php/el-magdalena
+000557,CARIBE,https://www.elinformador.com.co/index.php/region-caribe
+000558,GENERAL,https://www.elinformador.com.co/index.php/general
+000559,JUDICIAL,https://www.elinformador.com.co/index.php/judiciales
+000560,DEPORTES,https://www.elinformador.com.co/index.php/deportes
+000561,SOCIALES,https://www.elinformador.com.co/index.php/sociales
+000562,TENDENCIAS,https://www.elinformador.com.co/index.php/tendencias
+000563,EVENTOS,https://www.elinformador.com.co/index.php/eventos
+000564,POLÍTICA,https://www.elinformador.com.co/index.php/politica
+000565,HUILA,https://www.lanacion.com.co/category/regional-huila/
+000566,INVESTIGACIÓN,https://www.lanacion.com.co/category/investigacion/
+000567,POLÍTICA,https://www.lanacion.com.co/category/politica/
+000568,DEPORTES,https://www.lanacion.com.co/category/deportes/
+000569,ECONOMÍA,https://www.lanacion.com.co/category/noticias-economia/
+000570,JUDICIAL,https://www.lanacion.com.co/category/judicial/
+000571,REVISTAS,https://www.lanacion.com.co/revistas/
+000572,LA NACIÓN DIGITAL,https://www.lanacion.com.co/contenido-digital/
+000573,PEREIRA,https://www.eldiario.com.co/categoria/noticias/pereira/
+000574,RISARALDA,https://www.eldiario.com.co/categoria/noticias/risaralda/
+000575,ACTUALIDAD,https://www.eldiario.com.co/actualidad/
+000576,GENERAL,https://www.eldiario.com.co/general/
+000577,ECONOMIA,https://www.eldiario.com.co/categoria/noticias/economia/
+000578,POLITICA,https://www.eldiario.com.co/categoria/noticias/politica/
+000579,JUDICIAL,https://www.eldiario.com.co/categoria/judicial/
+000580,DEPORTES,https://www.eldiario.com.co/categoria/deportes/
+000581,SOCIALES,https://www.eldiario.com.co/categoria/sociales/
+000582,PUNTO FINAL,https://www.eldiario.com.co/categoria/punto-final/
+000583,CARTAGENA,https://mundonoticias.com.co/category/cartagena/
+000584,BOLÍVAR,https://mundonoticias.com.co/category/bolivar/
+000585,JUDICIALES,https://mundonoticias.com.co/category/judiciales/
+000586,POLÍTICA,https://mundonoticias.com.co/category/politica/
+000587,ECONOMÍA,https://mundonoticias.com.co/category/economia/
+000588,CULTURA,https://mundonoticias.com.co/category/cultura/
+000589,NACIONALES,https://mundonoticias.com.co/category/nacionales/
+000590,ENTRETENIMIENTO,https://mundonoticias.com.co/category/entretenimiento/
+000591,DEPORTES,https://mundonoticias.com.co/category/deportes/
+000592,BOLIVAR,https://bolivarense.com/bolivar/
+000593,CARTAGENA,https://bolivarense.com/cartagena/
+000594,COLOMBIA/MUNDO,https://bolivarense.com/nacional/
+000595,POLITICA,https://bolivarense.com/politica/
+000596,DEPORTES,https://bolivarense.com/deportes/
+000597,CULTURA,https://bolivarense.com/cultura/
+000598,EMPRESAS,https://bolivarense.com/category/negocios-y-empresas/
+000599,COLUMNAS,https://bolivarense.com/columnas/
+000600,SUCESOS,https://www.lapatria.com/sucesos
+000601,DEPORTES,https://www.lapatria.com/deportes
+000602,MANIZALES,https://www.lapatria.com/manizales
+000603,CALDAS,https://www.lapatria.com/caldas
+000604,DENUNCIE,https://www.lapatria.com/denuncie
+000605,ECONOMÍA,https://www.lapatria.com/economia
+000606,POLÍTICA,https://www.lapatria.com/politica
+000607,ENTRETENIMIENTO,https://www.lapatria.com/entretenimiento
+000608,CULTURA,https://www.lapatria.com/cultura
+000609,CIENCIA,https://www.lapatria.com/ciencias
+000610,TECNOLOGÍA,https://www.lapatria.com/tecnologia
+000611,EDUCACIÓN,https://www.lapatria.com/educacion
+000612,SALUD,https://www.lapatria.com/salud
+000613,MEDIOAMBIENTE,https://www.lapatria.com/medioambiente
+000614,NACIONAL,https://www.lapatria.com/nacional
+000615,INTERNACIONAL,https://www.lapatria.com/internacional
+000616,OPINIÓN,https://www.lapatria.com/opinion
+000617,SOCIAL,https://www.lapatria.com/social
+000618,PUBLIRREPORTAJE,https://www.lapatria.com/publirreportaje
+000619,CAUCA,https://periodicovirtual.com/tag/cauca/
+000620,POPAYÁN,https://periodicovirtual.com/tag/popayan/
+000621,GENERAL,https://periodicovirtual.com/tag/general/
+000622,JUDICIALES,https://periodicovirtual.com/tag/judiciales/
+000623,OPINIÓN,https://periodicovirtual.com/tag/opinion/
