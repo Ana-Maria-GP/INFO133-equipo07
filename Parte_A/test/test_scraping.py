@@ -1,15 +1,13 @@
 import random
 from requests_html import HTMLSession
-import w3lib.html
-import html
-import mariadb
-import sys
-import time
 
 def format_date(date):
         return(date.split("T")[0])
 
 session = HTMLSession()
+
+## URL que escrapear
+URL = "https://www.eltiempo.com/justicia/investigacion/aviones-de-fuerza-aerea-colisionaron-en-vuelo-de-entrenamiento-en-villavicencio-782649"
 
 ## Simular que estamos utilizando un navegador web
 USER_AGENT_LIST = [
@@ -34,67 +32,20 @@ USER_AGENT_LIST = [
 ]
 headers = {'user-agent':random.choice(USER_AGENT_LIST) }
 
+response = session.get(URL,headers=headers)
 
-#Medio de prensa -> El Tiempo
-#Link asociado al medio 
+## Analizar ("to parse") el contenido
+
 # - https://www.eltiempo.com/justicia/investigacion/aviones-de-fuerza-aerea-colisionaron-en-vuelo-de-entrenamiento-en-villavicencio-782649 
-xpath_title="/html/body/div[1]/article/div[2]/section/div[2]/div[3]/h1"
-xpath_date="/html/body/div[1]/article/div[2]/div[3]/section/div[1]/div[2]/div[2]/div[3]/div/span"
-xpath_text="/html/body/div[1]/article/div[2]/div[3]/section/div[1]/div[2]/div[4]/div/p[1]"
+xpath_title="/article/div[2]/section/div[2]/div[3]/h1"
+xpath_date="/article/div[2]/div[3]/section/div[1]/div[2]/div[2]/div[3]/div/span"
+xpath_text="/html/body/div[1]/article/div[2]/div[3]/section/"
 
-# Conectarse a MariaDB
-try:
-    conn = mariadb.connect(
-        user="root",
-        password="1234567890",
-        host="localhost",
-        port=3306,
-        database="web_scraping"
 
-    )
-except mariadb.Error as e:
-    print(f"Error connecting to MariaDB Platform: {e}")
-    sys.exit(1)
+title = response.html.xpath(xpath_title)[0].text
+print(title)
 
-# Get Cursor
-cur = conn.cursor()
-
-#Listar las URLs que escrapear
-# Ejecutar la consulta SQL para obtener las URLs
-#cur.execute("SELECT url FROM url")
-
-# Obtener los resultados de la consulta
-
-resultados = 'https://www.eltiempo.com/justicia/investigacion/aviones-de-fuerza-aerea-colisionaron-en-vuelo-de-entrenamiento-en-villavicencio-782649'
-
-# Crear una lista para almacenar las URLs
-urls = []
-
-# Iterar sobre los resultados y añadir las URLs a la lista
-for resultado in resultados:
-    print(resultado[0]) # Se asume que la columna "url" es la primera en la consulta
-
-    response = session.get(resultado[0],headers=headers)
-
-    ## Analizar el contenido
-    title = response.html.xpath(xpath_title)[0].text
-    date = format_date(response.html.xpath(xpath_date)[0])
-
-    list_p = response.html.xpath(xpath_text)
-    text=""
-    for p in list_p:
-        content = p.text
-        content = w3lib.html.remove_tags(content)
-        content = w3lib.html.replace_escape_chars(content)
-        content = html.unescape(content)
-        content = content.strip()
-        text=text+" "+content
-
-    #Guardar los datos en MariaDB
-    query= f"INSERT INTO news (url,title,date,content) VALUES ('{resultado[0]}', '{title}', '{date}', '{text}')"
-
-    cur.execute(query)
-    conn.commit()
-    time.sleep(1)
-
-conn.close()
+date = response.html.xpath(xpath_date)[0]
+print(format_date(date))
+text = response.html.xpath(xpath_text)
+print(text)
