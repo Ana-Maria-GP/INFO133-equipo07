@@ -2,12 +2,12 @@ import random
 from requests_html import HTMLSession
 
 def format_date(date):
-        return(date.split("T")[0])
+        return(date.split("")[0])
 
 session = HTMLSession()
 
 ## URL que escrapear
-URL = "https://www.eltiempo.com/justicia/investigacion/aviones-de-fuerza-aerea-colisionaron-en-vuelo-de-entrenamiento-en-villavicencio-782649"
+URL = 'https://cambiocolombia.com/cultura/jacanamijoy-dona-100-serigrafias-para-los-lectores-de-cambio-esta-es-su-historia'
 
 ## Simular que estamos utilizando un navegador web
 USER_AGENT_LIST = [
@@ -35,17 +35,21 @@ headers = {'user-agent':random.choice(USER_AGENT_LIST) }
 response = session.get(URL,headers=headers)
 
 ## Analizar ("to parse") el contenido
-
-# - https://www.eltiempo.com/justicia/investigacion/aviones-de-fuerza-aerea-colisionaron-en-vuelo-de-entrenamiento-en-villavicencio-782649 
-xpath_title="/article/div[2]/section/div[2]/div[3]/h1"
-xpath_date="/article/div[2]/div[3]/section/div[1]/div[2]/div[2]/div[3]/div/span"
-xpath_text="/html/body/div[1]/article/div[2]/div[3]/section/"
+# - 'https://cambiocolombia.com/cultura/jacanamijoy-dona-100-serigrafias-para-los-lectores-de-cambio-esta-es-su-historia'
+xpath_title =   '/html/body/div[1]/main/article/header/div/div/div/div/div[1]/div/h1'
+xpath_date =    '/html/body/div[1]/main/article/header/div/div/div/div/div[1]/div/div/span[2]'
+xpath_text =    '/html/body/div[1]/main/article/div/div[1]/div[1]/div/div/div/section[2]/div[1]/div'
 
 
 title = response.html.xpath(xpath_title)[0].text
 print(title)
 
-date = response.html.xpath(xpath_date)[0]
-print(format_date(date))
-text = response.html.xpath(xpath_text)
+date = response.html.xpath(xpath_date)[0].text
+print(date)
+
+list_p = response.html.xpath(xpath_text)
+
+text=[]
+for p in list_p:
+        text.append(p.text)
 print(text)
