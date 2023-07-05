@@ -11,8 +11,8 @@ in_table = input(str("- Que tabla deseas rellenar ? \n- Opciones: \n\t-MEDIO_PRE
 
 #in_host = input("Host: ")
 print("\nLogin MariaDB")
-#in_user = input("User: ")
-#in_passwd = input("Password: ")
+in_user = input("User: ")
+in_passwd = input("Password: ")
 
 # Ruta del archivo CSV
 data_csv = 'csv_data/'+in_table+'.csv'
@@ -23,10 +23,8 @@ nombre_tabla = in_table
 try:
     # Conexión a la base de datos
     conn = mariadb.connect(
-        #user        = in_user,
-        #password    = in_passwd,
-        user        = "root",
-        password    = "1234567890",
+        user        = in_user,
+        password    = in_passwd,
         host        = "127.0.0.1",
         port        = 3306,
         database    = 'COLOMBIA'
