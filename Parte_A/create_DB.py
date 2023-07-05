@@ -60,6 +60,7 @@ cur.execute("""
         CIUDAD VARCHAR(100)        
     )
 """)
+#                                   
 cur.execute("""
     CREATE TABLE IF NOT EXISTS FUNDADORES (
         ID_FUNDADOR INT PRIMARY KEY,
@@ -69,16 +70,17 @@ cur.execute("""
         FOREIGN KEY (NOMBRE_MEDIO) REFERENCES MEDIO_PRENSA(NOMBRE_MEDIO)
     )
 """)
+#                                   
 cur.execute("""
     CREATE TABLE IF NOT EXISTS CATEGORIA (
         ID_CATEGORIA INT PRIMARY KEY,
         NOMBRE_CATEGORIA VARCHAR(100),
-        NOMBRE_MEDIO VARCHAR(100),
         URL_CATEGORIA VARCHAR(500),
+        NOMBRE_MEDIO VARCHAR(100),
         FOREIGN KEY (NOMBRE_MEDIO) REFERENCES MEDIO_PRENSA(NOMBRE_MEDIO)
     )
 """)
-
+#                                   
 cur.execute("""
     CREATE TABLE IF NOT EXISTS RRSS (
         ID_RRSS INT PRIMARY KEY,
@@ -91,6 +93,7 @@ cur.execute("""
     )
 """)
 
+#                                   
 # Tablas Dependientes
 cur.execute("""
     CREATE TABLE IF NOT EXISTS NOTICIA (
