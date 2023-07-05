@@ -34,7 +34,7 @@ try:
     # Leer el archivo CSV y agregar los datos a la tabla
     with open(data_csv, 'r') as file:
         csv_data = csv.reader(file)
-        next(csv_data)  # Ignorar la primera fila si contiene encabezados
+        #next(csv_data)  # Ignorar la primera fila si contiene encabezados
 
         if( in_table == "MEDIO_PRENSA"):
             for row in csv_data:
@@ -50,8 +50,11 @@ try:
                 # Mostrar la fila duplicada
                     print(f"La fila {row} ya existe en la base de datos.")
                 #
-        
+                print("Los datos se han insertado correctamente en la tabla.")
         elif( in_table == "FUNDADORES"):
+
+            #next(csv_data)  # Ignorar la primera fila si contiene encabezados
+            #
             for row in csv_data:
                 cursor.execute(f"SELECT COUNT(*) FROM FUNDADORES WHERE ID_FUNDADOR = %s AND NOMBRE_FUNDADOR = %s AND APELLIDO_FUNDADOR = %s AND NOMBRE_MEDIO = %s ", row)
                 cantidad = cursor.fetchone()[0]
@@ -60,13 +63,14 @@ try:
                 # Insertar la fila en la base de datos si no existe
                     insert_query = f"INSERT INTO {nombre_tabla} (ID_FUNDADOR, NOMBRE_FUNDADOR, APELLIDO_FUNDADOR, NOMBRE_MEDIO) VALUES (?, ?, ?, ?)"
                     cursor.execute(insert_query, tuple(row))
-                    print("Los datos se han insertado correctamente en la tabla.")
+                    
                 else:
                 # Mostrar la fila duplicada
                     print(f"La fila {row} ya existe en la base de datos.")
                 #
-
+            print("Los datos se han insertado correctamente en la tabla.")
         elif( in_table == "CATEGORIA"):
+            next(csv_data)  # Ignorar la primera fila si contiene encabezados
             #
             for row in csv_data:
                 cursor.execute(f"SELECT COUNT(*) FROM CATEGORIA WHERE ID_CATEGORIA = %s AND NOMBRE_CATEGORIA = %s AND URL_CATEGORIA = %s ", row)
@@ -76,13 +80,15 @@ try:
                 # Insertar la fila en la base de datos si no existe
                     insert_query = f"INSERT INTO {nombre_tabla} (ID_CATEGORIA, NOMBRE_CATEGORIA, URL_CATEGORIA) VALUES (?, ?, ?)"
                     cursor.execute(insert_query, tuple(row))
-                    print("Los datos se han insertado correctamente en la tabla.")
+                    
                 else:
                 # Mostrar la fila duplicada
                     print(f"La fila {row} ya existe en la base de datos.")
                 #
-        
+                print("Los datos se han insertado correctamente en la tabla.")
         elif (in_table == "RRSS"):
+            csv_data = csv.reader(file)
+            next(csv_data)  # Ignorar la primera fila si contiene encabezados
             #
             for row in csv_data:
                 cursor.execute(f"SELECT COUNT(*) FROM RRSS WHERE ID_RRSS = %s AND USUARIO = %s AND ACTUALIZACION = %s AND SEGUIDORES = %s AND NOMBRE_RED = %s ", row)
@@ -92,12 +98,15 @@ try:
                 # Insertar la fila en la base de datos si no existe
                     insert_query = f"INSERT INTO {nombre_tabla} (ID_RRSS ,USUARIO, ACTUALIZACION ,SEGUIDORES, NOMBRE_RED) VALUES (?, ?, ?, ?, ?)"
                     cursor.execute(insert_query, tuple(row))
-                    print("Los datos se han insertado correctamente en la tabla.")
+                
                 else:
                 # Mostrar la fila duplicada
                     print(f"La fila {row} ya existe en la base de datos.")
                 #
+            print("Los datos se han insertado correctamente en la tabla.")
         elif( in_table == "NOTICIA"):
+            csv_data = csv.reader(file)
+            next(csv_data)  # Ignorar la primera fila si contiene encabezados
             #
             for row in csv_data:
                 cursor.execute(f"SELECT COUNT(*) FROM NOTICIA WHERE ID_NOTICIA = %s AND XPATH_TITULO = %s AND XPATH_FECHA = %s AND XPATH_CONTENIDO = %s AND URL_NOTICIA = %s", row)
@@ -107,11 +116,12 @@ try:
                 # Insertar la fila en la base de datos si no existe
                     insert_query = f"INSERT INTO {nombre_tabla} (ID_NOTICIA ,XPATH_TITULO ,XPATH_FECHA ,XPATH_CONTENIDO ,URL_NOTICIA ) VALUES (?, ?, ?, ?, ? )"
                     cursor.execute(insert_query, tuple(row))
-                    print("Los datos se han insertado correctamente en la tabla.")
+                    
                 else:
                 # Mostrar la fila duplicada
                     print(f"La fila {row} ya existe en la base de datos.")
                 #
+            print("Los datos se han insertado correctamente en la tabla.")
         else: 
             print("TABLA ESCRITA INVALIDA")
 

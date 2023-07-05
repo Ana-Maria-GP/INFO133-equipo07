@@ -37,3 +37,5 @@
 - > https://www.prensaescrita.com/america/colombia.php
 
 
+- Consultas validadas Mariadb
+> SELECT F.NOMBRE_FUNDADOR,F.APELLIDO_FUNDADOR FROM FUNDADORES F JOIN MEDIO_PRENSA M ON F.NOMBRE_MEDIO = M.NOMBRE_MEDIO WHERE M.NOMBRE_MEDIO ="El Meridiano";
