@@ -88,15 +88,15 @@ try:
                 #
             print("Los datos se han insertado correctamente en la tabla.")
         elif (in_table == "RRSS"):
-
+            print("Ingreso a la opcion de redes sociales\n")
             #
             for row in csv_data:
-                cursor.execute(f"SELECT COUNT(*) FROM RRSS WHERE ID_RRSS = %s AND USUARIO = %s AND ACTUALIZACION = %s AND SEGUIDORES = %s AND NOMBRE_RED = %s ", row)
+                cursor.execute(f"SELECT COUNT(*) FROM RRSS WHERE ID_RRSS = %s AND USUARIO = %s AND ACTUALIZACION = %s AND SEGUIDORES = %s AND NOMBRE_RED = %s AND NOMBRE_MEDIO = %s ", row)
                 cantidad = cursor.fetchone()[0]
             
                 if cantidad == 0:
                 # Insertar la fila en la base de datos si no existe
-                    insert_query = f"INSERT INTO {nombre_tabla} (ID_RRSS ,USUARIO, ACTUALIZACION ,SEGUIDORES, NOMBRE_RED) VALUES (?, ?, ?, ?, ?)"
+                    insert_query = f"INSERT INTO {nombre_tabla} (ID_RRSS ,USUARIO, ACTUALIZACION ,SEGUIDORES, NOMBRE_RED, NOMBRE_MEDIO) VALUES (?, ?, ?, ?, ?, ?)"
                     cursor.execute(insert_query, tuple(row))
                 
                 else:
@@ -108,12 +108,12 @@ try:
 
             #
             for row in csv_data:
-                cursor.execute(f"SELECT COUNT(*) FROM NOTICIA WHERE ID_NOTICIA = %s AND XPATH_TITULO = %s AND XPATH_FECHA = %s AND XPATH_CONTENIDO = %s AND URL_NOTICIA = %s", row)
+                cursor.execute(f"SELECT COUNT(*) FROM NOTICIA WHERE ID_NOTICIA = %s AND XPATH_TITULO = %s AND XPATH_FECHA = %s AND XPATH_CONTENIDO = %s AND URL_NOTICIA = %s AND NOMBRE_MEDIO = %s", row)
                 cantidad = cursor.fetchone()[0]
             
                 if cantidad == 0:
                 # Insertar la fila en la base de datos si no existe
-                    insert_query = f"INSERT INTO {nombre_tabla} (ID_NOTICIA ,XPATH_TITULO ,XPATH_FECHA ,XPATH_CONTENIDO ,URL_NOTICIA ) VALUES (?, ?, ?, ?, ? )"
+                    insert_query = f"INSERT INTO {nombre_tabla} (ID_NOTICIA ,XPATH_TITULO ,XPATH_FECHA ,XPATH_CONTENIDO ,URL_NOTICIA, NOMBRE_MEDIO ) VALUES (?, ?, ?, ?, ? ,?)"
                     cursor.execute(insert_query, tuple(row))
                     
                 else:
