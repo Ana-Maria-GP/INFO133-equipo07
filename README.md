@@ -37,7 +37,13 @@
 - > https://www.prensaescrita.com/america/colombia.php
 
 
-- Consultas validadas Mariadb
+## Consultas validadas Mariadb
 > SELECT F.NOMBRE_FUNDADOR,F.APELLIDO_FUNDADOR FROM FUNDADORES F JOIN MEDIO_PRENSA M ON F.NOMBRE_MEDIO = M.NOMBRE_MEDIO WHERE M.NOMBRE_MEDIO ="El Meridiano";
 
 > SELECT MEDIO_PRENSA.NOMBRE_MEDIO FROM MEDIO_PRENSA JOIN RRSS ON MEDIO_PRENSA.NOMBRE_MEDIO = RRSS.NOMBRE_MEDIO WHERE NOMBRE_RED="Facebook" ORDER BY SEGUIDORES DESC LIMIT 2;
+
+
+## DATOS EXTRAS
+- En la carpeta Parte-A_TEST están todos los avances que fuimos haciendo hasta lograr lo que nos piden, tales como los modelos relacional y entidad relación, o los script.
+
+- Dentro de esta carpeta se encuentra otra carpeta llamada "test" en donde se encuentran los script que se usaron como base para hacer los que se encuentran en la carpeta final (Parte_A). 
