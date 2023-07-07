@@ -47,3 +47,5 @@
 - En la carpeta Parte-A_TEST están todos los avances que fuimos haciendo hasta lograr lo que nos piden, tales como los modelos relacional y entidad relación, o los script.
 
 - Dentro de esta carpeta se encuentra otra carpeta llamada "test" en donde se encuentran los script que se usaron como base para hacer los que se encuentran en la carpeta final (Parte_A). 
+
+- También está la carpeta llamada Parte_B en donde se encuentran los avances que habíamos logrado para "Información territorial basada en las comunas de Chile".
